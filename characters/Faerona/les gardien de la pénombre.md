@@ -26,6 +26,8 @@ Au nombre de 5, il sont les inquisiteurs de l'ordre. Ils ont droit de regard sur
 
 ### le gardien fondateur
 
-Les gardiens fondateurs sont les membres les plus anciens et les plus respectés de l'ordre. Ils sont au nombre de 10 et ils sont seulement remplacé lors de la mort ou l'excomunication(très râre, voir quasi inexistant) d'un membre. Ils sont responsable de la direction de l'ordre. Chaque gardien fondateur est responsable d'environ un dizaine de gardiens (le nombre peut varier selon les besoins). Ils ont le pouvoir de décider de l'excommunication d'un membre, mais aussi de l'intégration d'un nouveau membre. Ils sont aussi les seuls à pouvoir appliquer la marque du repentit.
+Les gardiens fondateurs sont les membres les plus anciens et les plus respectés de l'ordre. Ils sont au nombre de 10 et ils sont seulement remplacé lors de la mort ou l'excomunication(très rare, voir quasi inexistant) d'un membre. Ils sont responsable de la direction de l'ordre. Chaque gardien fondateur est responsable d'environ un dizaine de gardiens (le nombre peut varier selon les besoins). Ils ont le pouvoir de décider de l'excommunication d'un membre, mais aussi de l'intégration d'un nouveau membre. Ils sont aussi les seuls à pouvoir appliquer la marque du repentit.
 
 # La Forteresse
+
+Il s'agit d'une forteresse, située dans les montagnes, est située à une journée de marche de la ville de <<VILLE>>. Elle abrite la grande archive, une immense bibliothèque qui contient tous les savoirs et artéfacts récupérés par l'ordre. ses protections sont nombreuses et variées, allant des pièges mortels, barrières magiques et divines, et des gardiens qui patrouillent en permanence. La forteresse est aussi le lieu de résidence des membres de l'ordre, qui y vivent en communauté. Plus de 500 personnes la considèrent comme leur foyer.
